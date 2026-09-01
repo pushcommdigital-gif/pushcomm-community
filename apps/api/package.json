@@ -25,7 +25,7 @@
     "bcrypt": "^6.0.0",
     "dotenv": "^17.3.1",
     "drizzle-orm": "^0.45.1",
-    "fastify": "^5.2.0",
+    "fastify": "^5.12.1",
     "firebase-admin": "^13.7.0",
     "ioredis": "^5.9.3",
     "livekit-server-sdk": "^2.15.0",
